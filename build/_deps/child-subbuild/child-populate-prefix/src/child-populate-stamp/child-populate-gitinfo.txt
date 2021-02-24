@@ -1,0 +1,3 @@
+repository='https://github.com/haditj66/Lib_A.git'
+module=''
+tag='origin'

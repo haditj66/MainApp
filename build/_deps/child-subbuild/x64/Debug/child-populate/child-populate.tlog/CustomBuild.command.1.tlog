@@ -1,0 +1,162 @@
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-src
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-build
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/tmp
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/tmp/child-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/tmp/child-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\24C877720996416858C578DA23124FDE\CHILD-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\E164CF48C8AB90295E4440B9F1973BA5\CHILD-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/Debug/child-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/child-populate-prefix/src/child-populate-stamp/Debug/child-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKEFILES\6B6E64DE567A019CE760D567A911B7A4\CHILD-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HADI\ONEDRIVE\DOCUMENTS\CMAKE_MY_TUTORIALS\FETCHCONTENTTEST\MAINAPP\BUILD\_DEPS\CHILD-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild -BC:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild --check-stamp-file C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/child-populate.dir
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/child-populate"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/6b6e64de567a019ce760d567a911b7a4/child-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/e164cf48c8ab90295e4440b9f1973ba5/child-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-update.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"child-populate"
+		],
+		"name" : "child-populate"
+	}
+}

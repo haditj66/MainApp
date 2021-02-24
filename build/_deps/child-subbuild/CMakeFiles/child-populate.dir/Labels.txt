@@ -1,0 +1,14 @@
+# Target labels
+ child-populate
+# Source files and their labels
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/child-populate
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/6b6e64de567a019ce760d567a911b7a4/child-populate.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/e164cf48c8ab90295e4440b9f1973ba5/child-populate-complete.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-install.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-mkdir.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-download.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-update.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-patch.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-configure.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-build.rule
+C:/Users/Hadi/OneDrive/Documents/Cmake_my_tutorials/FetchContentTest/MainApp/build/_deps/child-subbuild/CMakeFiles/24c877720996416858c578da23124fde/child-populate-test.rule

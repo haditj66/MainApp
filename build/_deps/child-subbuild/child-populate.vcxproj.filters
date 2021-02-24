@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\24c877720996416858c578da23124fde\child-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\e164cf48c8ab90295e4440b9f1973ba5\child-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\6b6e64de567a019ce760d567a911b7a4\child-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Hadi\OneDrive\Documents\Cmake_my_tutorials\FetchContentTest\MainApp\build\_deps\child-subbuild\CMakeFiles\child-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C414D28F-5060-32F1-8E67-B9DC9CA732EF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
